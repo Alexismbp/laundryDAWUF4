@@ -1,5 +1,5 @@
 # laundry management system
-
+<center>Novetats afegides a featureABP</center>
 ---
 ## Using Tech:
 
