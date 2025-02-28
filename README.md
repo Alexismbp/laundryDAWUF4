@@ -1,5 +1,6 @@
 # laundry management system
 Mark Collaboratiere
+Alexis propietario
 ## Using Tech:
 
 * Php
