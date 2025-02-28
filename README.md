@@ -1,7 +1,7 @@
 # laundry management system
 <center>Novetats afegides a featureABP</center>
 Un altre canvi a Develop per ABP!!
----
+Soc propietari Alexis Boisset---
 ## Using Tech:
 
 * Php
