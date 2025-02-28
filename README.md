@@ -1,5 +1,5 @@
 # laundry management system
-
+Alexis propietario
 ## Using Tech:
 
 * Php
